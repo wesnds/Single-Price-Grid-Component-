@@ -3,6 +3,8 @@
 Single Price Grid Component Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
 Coded by <a href="github.com/wesnds">Weslley dos Santos</a>.
 
+![desktop-design](https://user-images.githubusercontent.com/48526020/140613678-eb451d2f-b739-4c49-a7a5-e72edb3e35f2.jpg)
+
 ## Frontend Mentor - Single Price Grip Component
 
 ### Welcome! 👋
